@@ -28,6 +28,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/þeBird">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%C3%BEeBird&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%C3%BEeBird&count=5&unique=true](https://spotify-github-profile.vercel.app/api/view?uid=21dyckdbkm57gnck7rwsvmwqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify recently played"  />
   </a>
 </div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21dyckdbkm57gnck7rwsvmwqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
