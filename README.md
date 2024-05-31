@@ -6,7 +6,7 @@
   </a>
 </div>
 <h3>I am a 2nd Year Computer Science Student at York University</h3>
-<h3>What I've used</h3>
+### What I've used
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phouman&show_icons=true&locale=en" alt="phouman" /></p>
 
-### Now Playing — Spotify 🎧
+### What I'amm jamming to — Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21dyckdbkm57gnck7rwsvmwqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
