@@ -9,6 +9,7 @@
 
 <h3 align="left">About Me</h3>
 <p>I am a 2nd Year Computer Science Student at York University</p>
+<p>Currently looking for an internship</p>
 
 <h3 align="left">Language and tools</h3>
 <p align="left">
