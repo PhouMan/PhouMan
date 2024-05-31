@@ -25,6 +25,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phouman&show_icons=true&locale=en&layout=compact" alt="phouman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phouman&show_icons=true&locale=en" alt="phouman" /></p>
-<p>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21dyckdbkm57gnck7rwsvmwqq"/>
-</p>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/þeBird">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%C3%BEeBird&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
