@@ -26,9 +26,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phouman&show_icons=true&locale=en" alt="phouman" /></p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/þeBird">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%C3%BEeBird&count=5&unique=true](https://spotify-github-profile.vercel.app/api/view?uid=21dyckdbkm57gnck7rwsvmwqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify recently played"  />
+### Now Playing — Spotify 🎧
+<p>
+  <a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
+    <img src=”[https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false](https://spotify-github-profile.vercel.app/api/view?uid=21dyckdbkm57gnck7rwsvmwqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)"/>
   </a>
-</div>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21dyckdbkm57gnck7rwsvmwqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</p>
