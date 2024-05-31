@@ -1,4 +1,7 @@
 <h1>Hey, I'm Ryan</h1>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin-badge">
+</div>
 <h3>A 2nd Year Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phouman&label=Profile%20views&color=0e75b6&style=flat" alt="phouman" /> </p>
