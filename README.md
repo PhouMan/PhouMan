@@ -1,5 +1,6 @@
-<h1>Hey, I'm Ryan</h1>
-<div id="badges">
+
+<div id="badges" style="display:inline;">
+  <h1>Hey, I'm Ryan</h1>
   <a href="https://www.linkedin.com/in/ryanphou/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin-badge">
   </a>
