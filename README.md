@@ -34,6 +34,6 @@
 </div>
 
 ### What I'am jamming to
-[![Spotify](https://phoumans-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21dyckdbkm57gnck7rwsvmwqq)
+[![Spotify](https://spotifyreadme-phoumans-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21dyckdbkm57gnck7rwsvmwqq)
 
 
