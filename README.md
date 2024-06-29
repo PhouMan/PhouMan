@@ -34,4 +34,6 @@
 </div>
 
 ### What I'am jamming to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21dyckdbkm57gnck7rwsvmwqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://21dyckdbkm57gnck7rwsvmwqq.vercel.app/api/spotify)](https://open.spotify.com/user/21dyckdbkm57gnck7rwsvmwqq)
+
+
