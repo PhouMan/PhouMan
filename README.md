@@ -8,7 +8,7 @@
 </div>
 
 <h3 align="left">About Me</h3>
-<p>I am a 3rd Year Computer Science Student at York University</p>
+<p>I am a 4th Year Computer Science Student at York University</p>
 <p>WE IS CHILLING</p>
 
 <h3 align="left">Language and tools</h3>
