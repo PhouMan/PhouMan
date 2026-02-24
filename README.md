@@ -8,8 +8,9 @@
 </div>
 
 <h3 align="left">About Me</h3>
-<p>I am a 4th Year Computer Science Student at York University</p>
-<p>WE IS CHILLING</p>
+<p>I am a 4th Year Computer Science Student @ York University</p>
+<p>Former SWE Intern @ Ontario Science Centre </p>
+<p>Incoming .Net Software Developer @ FGF Brands</p>
 
 <h3 align="left">Language and tools</h3>
 <p align="left">
